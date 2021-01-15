@@ -1,0 +1,9 @@
+README.md
+setup.py
+shatteringdt/shatteringdt.egg-info/PKG-INFO
+shatteringdt/shatteringdt.egg-info/SOURCES.txt
+shatteringdt/shatteringdt.egg-info/dependency_links.txt
+shatteringdt/shatteringdt.egg-info/entry_points.txt
+shatteringdt/shatteringdt.egg-info/not-zip-safe
+shatteringdt/shatteringdt.egg-info/requires.txt
+shatteringdt/shatteringdt.egg-info/top_level.txt

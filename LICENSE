@@ -1,0 +1,33 @@
+GNU GENERAL PUBLIC LICENSE
+                      Version 3, 29 June 2007
+
+    Learning, in Machine Learning (ML) area, is one of the most important steps in the construction of algorithms that seek to predict a certain task, whether this is the classification of objects, the forecast of demand for a specific product or even the diagnosis of malignant diseases. In ML, we can study supervised (which have a label, e.g., a class) and unsupervised algorithms, used for tasks such as pattern detection, grouping, among others that do not depend directly on a label. Knowing this, the present work aims to carry out the study of different supervised learning algorithms, in this case, the classification algorithms, more specifically Decision Trees, to carry out an analytical study about the steps that make up the learning process of the algorithm, exploring concepts of the statistical learning theory (SLT) that provide tools for studies and allow to prove issues such as the guarantee of learning of a certain algorithm. Reference: "Measuring the Shattering coefficient of Decision Tree models"  
+    Copyright (C) 2021  Martinelli, Igor.
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Also add information on how to contact you by electronic and paper mail.
+
+  You should also get your employer (if you work as a programmer) or school,
+if any, to sign a "copyright disclaimer" for the program, if necessary.
+For more information on this, and how to apply and follow the GNU GPL, see
+<http://www.gnu.org/licenses/>.
+
+  The GNU General Public License does not permit incorporating your program
+into proprietary programs.  If your program is a subroutine library, you
+may consider it more useful to permit linking proprietary applications with
+the library.  If this is what you want to do, use the GNU Lesser General
+Public License instead of this License.  But first, please read
+<http://www.gnu.org/philosophy/why-not-lgpl.html>.
+
